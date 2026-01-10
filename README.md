@@ -7,7 +7,7 @@
 
 <h2> Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate](https://coursera.org/share/90485b1d5790057a1b50ca9c0346e162))
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/90485b1d5790057a1b50ca9c0346e162)
 
 <h2>📺 Popular YouTube Videos</h2>
 

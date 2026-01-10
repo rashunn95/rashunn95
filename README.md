@@ -5,7 +5,7 @@
 - [Active Directory Home Lab](https://github.com/rashunn95/LABURL)
 - [Hello World!](https://github.com/rashunn95/LABURL)
 
-<h2> Certifications</h2>
+<h2>📄 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/90485b1d5790057a1b50ca9c0346e162)
 

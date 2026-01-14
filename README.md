@@ -3,15 +3,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/rashunn95/LABURL)
-- [Hello World!](https://github.com/rashunn95/LABURL)
 
 <h2>📄 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/90485b1d5790057a1b50ca9c0346e162)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>

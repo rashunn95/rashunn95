@@ -7,7 +7,8 @@
 <h2>📄 Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/90485b1d5790057a1b50ca9c0346e162)
-
+- [TryHackMe Pre Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SVJLHECIF7.pdf).
+- [TryHackMe Cyber 101 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-QINADPFBSD.pdf).
 
 <h2> 🤳 Connect with me:</h2>
 
